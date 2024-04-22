@@ -25,8 +25,8 @@ In zh-cn:
 - ⚡ 有趣的事情: 我刚开始注册github时把我的用户名写错了（具体写成什么了忘记了），少了一个字母，发现后尽快重新注销注册了一个，笑死😆。  
 
 ### 我的数据统计   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawrenceshi\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=merko&show_icons=true&locale=cn)](https://github.com/lawrenceshi)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrenceshi\&layout=pie&theme=merko&locale=cn)](https://github.com/lawrenceshi)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawrenceshi\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=merko&show_icons=true&locale=zh-cn)](https://github.com/lawrenceshi)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrenceshi\&layout=pie&theme=merko&locale=zh-cn)](https://github.com/lawrenceshi)  
 # powered by:[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  
 (python占比好高😄)  
 ### 希望你喜欢我的程序😄
