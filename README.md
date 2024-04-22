@@ -27,9 +27,9 @@ In zh-cn:
 ### 我的数据统计   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawrenceshi\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=merko&show_icons=true&locale=cn)](https://github.com/lawrenceshi)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrenceshi\&layout=pie&theme=merko&locale=cn)](https://github.com/lawrenceshi)  
-power by:[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  
+# powered by:[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  
 (python占比好高😄)  
-###希望你喜欢我的程序😄
+### 希望你喜欢我的程序😄
 
 <!--
 **lawrenceshi/lawrenceshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
