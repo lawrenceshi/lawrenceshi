@@ -27,10 +27,11 @@ In zh-cn:
 ### 我的数据统计   
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api?username=lawrenceshi&show_icons=true&theme=merko)](https://github.com/lawrenceshi)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrenceshi\&layout=pie&theme=merko)](https://github.com/lawrenceshi)   -->
-![Top Langs](https://github-readme-stats.vercel.app/api?username=lawrenceshi&show_icons=true&theme=Gradient)](https://github.com/lawrenceshi)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrenceshi\&layout=pie&theme=Gradient)](https://github.com/lawrenceshi)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawrenceshi\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=gradient&show_icons=true)(https://github.com/lawrenceshi)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrenceshi\&layout=pie&theme=gradient)](https://github.com/lawrenceshi)  
+[power by:github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  
 (python占比好高😄)  
-### ㊗️玩得开心！用我做的程序开心（虽然现在没有几个）  
+###希望你喜欢我的程序😄
 
 <!--
 **lawrenceshi/lawrenceshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
