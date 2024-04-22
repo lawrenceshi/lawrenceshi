@@ -25,7 +25,8 @@ In zh-cn:
 - ⚡ 有趣的事情: 我刚开始注册github时把我的用户名写错了（具体写成什么了忘记了），少了一个字母，发现后尽快重新注销注册了一个，笑死😆。  
 
 ### 我的数据统计   
-![](https://github-readme-stats.vercel.app/api?username=lawrenceshi&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=lawrenceshi&show_icons=true&theme=merko)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrenceshi\&layout=compact&theme=merko)
 (python占比好高😄)  
 ### ㊗️玩得开心！用我做的程序开心（虽然现在没有几个）  
 
