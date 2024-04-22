@@ -28,7 +28,9 @@ In zh-cn:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawrenceshi&hide_border=true&include_all_commits=true&theme=merko&show_icons=true&locale=cn)](https://github.com/lawrenceshi)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrenceshi\&layout=pie&theme=merko&locale=cn)](https://github.com/lawrenceshi)  
 powered by:[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  
-(python占比好高😄)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawrenceshi&hide_border=true&include_all_commits=true&theme=merko&show_icons=true&locale=en)](https://github.com/lawrenceshi)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrenceshi\&layout=pie&theme=merko&locale=en)](https://github.com/lawrenceshi)  
+powered by:[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  
 ### 希望你喜欢我的程序😄
 
 <!--
