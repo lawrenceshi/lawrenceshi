@@ -20,7 +20,7 @@ In zh-cn:
 - 🌱 我正在作为一个学生在学校里学习/做视频/编程。  
 - 🤔 我正在编程方面寻求帮助。  
 - 💬 问我问题 ...(也许我该问你?)。  
-- 📫 联系我: mailbox@lawrenceshi.space/shilaw5201@lawrenceshi.space。  
+- 📫 联系我: mailbox@lawrenceshi.space/hilaw5201@139.com。  
 - 😄 代词: ...(暂时不知道)。  
 - ⚡ 有趣的事情: 我刚开始注册github时把我的用户名写错了（具体写成什么了忘记了），少了一个字母，发现后尽快重新注销注册了一个，笑死😆。  
 
