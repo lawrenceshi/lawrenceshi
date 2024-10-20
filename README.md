@@ -10,7 +10,7 @@ In en:
 - 🌱 I’m currently learning in school as a student/making videos(on bilibili)/coding.  
 - 🤔 I’m looking for help with coding.  
 - 💬 Ask me about ...(mabe I should ask you?).  
-- 📫 How to reach me: mailbox@lawrenceshi.space/shilaw5201@lawrenceshi.space.  
+- 📫 How to reach me: mailbox@lawrenceshi.space/shilaw5201@139.com.  
 - 😄 Pronouns: ...(I don't know).  
 - ⚡ Fun fact: When I started to register github, I wrote my user name wrong (specifically written what I forgot), missing a letter, found that I re-registered a letter as soon as possible, rolling on the floor laughing😆.  
 
