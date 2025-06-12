@@ -7,21 +7,21 @@
 In en:
 - 😍 A boy who likes to program.  
 - 🔭 I’m currently working on making videos(on bilibili)/coding.  
-- 🌱 I’m currently learning in school as a student/making videos(on bilibili)/coding.  
+- 🌱 I’m currently learning in school as a student/making videos(on bilibili)/learning coding.  
 - 🤔 I’m looking for help with coding.  
 - 💬 Ask me about ...(mabe I should ask you?).  
 - 📫 How to reach me: mailbox@lawrenceshi.space/shilaw5201@139.com.  
-- 😄 Pronouns: ...(I don't know).  
+- 😄 Pronouns: A stone.  
 - ⚡ Fun fact: When I started to register github, I wrote my user name wrong (specifically written what I forgot), missing a letter, found that I re-registered a letter as soon as possible, rolling on the floor laughing😆.  
 
 In zh-cn:  
 - 😍 一个喜欢编程的男孩。  
 - 🔭 我正在做视频/编程。  
-- 🌱 我正在作为一个学生在学校里学习/做视频/编程。  
+- 🌱 我正在作为一个学生在学校里学习/做视频/学习编程。  
 - 🤔 我正在编程方面寻求帮助。  
 - 💬 问我问题 ...(也许我该问你?)。  
-- 📫 联系我: mailbox@lawrenceshi.space/hilaw5201@139.com。  
-- 😄 代词: ...(暂时不知道)。  
+- 📫 联系我: mailbox@lawrenceshi.space/shilaw5201@139.com。  
+- 😄 代词: 一块石头。  
 - ⚡ 有趣的事情: 我刚开始注册github时把我的用户名写错了（具体写成什么了忘记了），少了一个字母，发现后尽快重新注销注册了一个，笑死😆。  
 
 ### 我的数据统计   
