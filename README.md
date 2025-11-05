@@ -1,52 +1,28 @@
-### Hi there 👋  
-
-### 早/晚！  
-### 欢迎来到我的github！  
-## 介绍一下我自己：  
-
-In en:
-- 😍 A boy who likes to program.  
-- 🔭 I’m currently working on making videos(on bilibili)/coding.  
-- 🌱 I’m currently learning in school as a student/making videos(on bilibili)/learning coding.  
-- 🤔 I’m looking for help with coding.  
-- 💬 Ask me about ...(mabe I should ask you?).  
-- 📫 How to reach me: mailbox@lawrenceshi.space/shilaw5201@139.com.  
-- 😄 Pronouns: A stone.  
-- ⚡ Fun fact: When I started to register github, I wrote my user name wrong (specifically written what I forgot), missing a letter, found that I re-registered a letter as soon as possible, rolling on the floor laughing😆.  
-
-In zh-cn:  
-- 😍 一个喜欢编程的男孩。  
-- 🔭 我正在做视频/编程。  
-- 🌱 我正在作为一个学生在学校里学习/做视频/学习编程。  
-- 🤔 我正在编程方面寻求帮助。  
-- 💬 问我问题 ...(也许我该问你?)。  
-- 📫 联系我: mailbox@lawrenceshi.space/shilaw5201@139.com。  
-- 😄 代词: 一块石头。  
-- ⚡ 有趣的事情: 我刚开始注册github时把我的用户名写错了（具体写成什么了忘记了），少了一个字母，发现后尽快重新注销注册了一个，笑死😆。  
-
-### 我的数据统计   
-zh-cn :  
-[![Lawrence's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawrenceshi&hide_border=true&include_all_commits=true&theme=merko&show_icons=true&locale=cn)](https://github.com/lawrenceshi)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrenceshi\&layout=pie&theme=merko&locale=cn)](https://github.com/lawrenceshi)  
-en:  
-[![Lawrence's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawrenceshi&hide_border=true&include_all_commits=true&theme=merko&show_icons=true)](https://github.com/lawrenceshi)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrenceshi\&layout=pie&theme=merko&locale=en)](https://github.com/lawrenceshi)  
-powered by:[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  
-### 希望你喜欢我的程序😄
-
-<!--
-**lawrenceshi/lawrenceshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="3436" height="2577" alt="image" src="https://github.com/user-attachments/assets/8a91bdfb-2939-4d47-8396-673ac41577b5" />
 
 
+Hi!
+I am Lawrence,Nickname A stone
+I am a middle school student (this information may not always be up to date).
+I am now 13 years old.
+I live in Delaware, USA。 I am from China.
+I like to do interesting things, such as programming(I know a little bit of python, html, and a little little bit of C), reading, listening to music, watching movies, working with hardware, DIY computers, and so on.
+I also like to explore and learn new things, such as AI. I have a video channel on Bilibili, but I update it only occasionally. (I may open a YouTube channel in the future)
+You can find the projects I have done, the videos I have made, my stories and experiences, and how to contact me on my website or my blog.
+Hope you enjoy!
+Bye!
+
+你好!
+我是乐乐(小名)，大家可以叫我小乐，昵称 一块石头
+是一个初中生(信息更新可能不及时哦😝)
+今年 13(周)岁
+现居 美国，特拉华，来自 中国
+我喜欢做那些有意思的事情，比如写程序（我会一点Python、HTML、和一丢丢C），读书，听音乐，看各种电影，捣鼓硬件，DIY电脑等等
+我也非常喜欢探索和学习新事物，比如说AI
+我有一个哔哩哔哩，但是我喜欢偷懒，更新频率不固定，很长............(我也许会考虑以后开个油管的账号)
+你可以在我的网站和博客找到我的项目、我的经验和经历、还有我的联系方式，
+祝你在我的网站上玩得开心！
+再见！
+
+For more information, please go to my personal website [lawrenceshi.space](http://lawrenceshi.space/)
+更多信息请访问我的个人网站[lawrenceshi.space](http://lawrenceshi.space/)
